@@ -1,0 +1,6 @@
+{
+  "name": "DoubtBuddy",
+  "description": "A colorful, friendly AI tutor for Class 6-8 students across Maths, Science, English, and Social studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
